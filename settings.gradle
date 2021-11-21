@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Android-UI-Testing"
 include ':001_test_activity'
+include ':002_test_fragment'

@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/Users/Mohamed.Hasanen/AndroidStudioProjects/AndroidUITesting/001_test_activity/src/main/res/layout/activity_main.xml" value="0.240625" />
         <entry key="..\:/Users/Mohamed.Hasanen/AndroidStudioProjects/AndroidUITesting/001_test_activity/src/main/res/layout/activity_second.xml" value="0.2546875" />
+        <entry key="..\:/Users/Mohamed.Hasanen/AndroidStudioProjects/AndroidUITesting/002_test_fragment/src/main/res/layout/activity_main.xml" value="0.2546875" />
+        <entry key="..\:/Users/Mohamed.Hasanen/AndroidStudioProjects/AndroidUITesting/002_test_fragment/src/main/res/layout/fragment_directors.xml" value="0.2546875" />
+        <entry key="..\:/Users/Mohamed.Hasanen/AndroidStudioProjects/AndroidUITesting/002_test_fragment/src/main/res/layout/fragment_movie_detail.xml" value="0.2546875" />
+        <entry key="..\:/Users/Mohamed.Hasanen/AndroidStudioProjects/AndroidUITesting/002_test_fragment/src/main/res/layout/fragment_star_actors.xml" value="0.2546875" />
       </map>
     </option>
   </component>
