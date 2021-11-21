@@ -11,5 +11,9 @@ class SecondActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
+
+        binding.buttonBack.setOnClickListener {
+            onBackPressed()
+        }
     }
 }
