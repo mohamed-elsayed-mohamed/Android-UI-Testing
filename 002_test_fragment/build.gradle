@@ -57,6 +57,12 @@ dependencies {
     androidTestImplementation "androidx.test.ext:junit:$androidx_test"
     androidTestImplementation "androidx.test.ext:junit-ktx:$androidx_test"
 
+    def fragment_version = "1.4.0"
+    // Kotlin
+    implementation "androidx.fragment:fragment-ktx:$fragment_version"
+    // Testing Fragments in Isolation
+    debugImplementation "androidx.fragment:fragment-testing:$fragment_version"
+
     // Glide
     def glide_version = "4.9.0"
     implementation "com.github.bumptech.glide:glide:$glide_version"
